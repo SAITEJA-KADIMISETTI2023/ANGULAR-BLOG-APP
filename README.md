@@ -19,3 +19,5 @@
     npm install @angular/animations@11.2.14
 # Angular editor v1.2.0
     npm i @kolkov/angular-editor@1.2.0
+# Firebase tools for hosting v9.23.0
+    npm install -g firebase-tools@9.23.0
